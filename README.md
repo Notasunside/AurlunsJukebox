@@ -4,56 +4,55 @@ Not a music bot.
 If you use this code, DO NOT CREDIT ME!
 
 
-
-Command list for Tommy's Jukebox
+<b> <i> Command list for Tommy's Jukebox </b> </i>
 
 Connects the bot to the voice channel (These all do the same thing)
 	<p> -join </p>
-	-connect
-	-j 
+	<p> -connect </p>
+	<p> -j </p>
 
 Plays song
-	-play
-	-sing
-	-p
+	<p> -play </p>
+	<p> -sing </p>
+	<p> -p </p>
 	
 Pauses song
-	-pause
+	<p> -pause </p>
 	
 Resumes song
-	-resume
+	<p> -resume </p>
 	
 Skips song
-	-skip
+	<p> -skip </p>
 	
-Removes specific song from queue
-	-remove [INSERT NAME OF SPECIFIC SONG]
-	-rem 
-	-rm
+Removes specific song from queue </p> 
+	<p> -remove [INSERT NAME OF SPECIFIC SONG] </p>
+	<p> -rem </p>
+	<p> -rm </p>
 
 Clears queue
-	-clear
-	-clr
-	-cl
-	-cr
+	<p> -clear </p>
+	<p> -clr </p>
+	<p> -cl </p>
+	<p> -cr </p>
 	
 Displays queue
-	-queue
-	-q
-	-playlist
-	-que 
+	<p> -queue </p>
+	<p> -q </p>
+	<p> -playlist </p>
+	<p> -que </p>
 	
 Shows currently playing song
-	-np
-	-song 
-	-current
-	-currentsong
-	-playing 
+	<p> -np </p>
+	<p> -song </p>
+	<p> -current </p>
+	<p> -currentsong </p>
+	<p> -playing </p>
 	
 Disconnects bot from voice channel
-	-leave
-	-disconnect
-	-stop
-	-dc
-	-bye 
+	<p> -leave </p>
+	<p> -disconnect </p>
+	<p> -stop </p>
+	<p> -dc </p>
+	<p> -bye </p>
 	
