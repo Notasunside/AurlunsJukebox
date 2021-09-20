@@ -1,58 +1,75 @@
-# TommysJukebox
-Not a music bot.
-
-If you use this code, DO NOT CREDIT ME!
-
-
+# Tommy's Jukebox
+<br>
+<p>-----</p>
+<br>
+<p> Not a music bot. </p>
+<p> You will need to download PyNacL to use this.</p>
+<p> If you use this code, you do not have to credit me. </p>
+<br>
+<br>
+<p>-----</p>
+<br>
+<br>
 <b> <i> Command list for Tommy's Jukebox </b> </i>
-
+<br>
+<br>
 <b>Connects the bot to the voice channel (These all do the same thing)</b>
-	<p> -join </p>
-	<p> -connect </p>
-	<p> -j </p>
+
+	-join
+	-connect
+	-j
 
 <b>Plays song</b>
-	<p> -play </p>
-	<p> -sing </p>
-	<p> -p </p>
+
+	-play 
+	-sing 
+	 -p
 	
 <b>Pauses song</b>
-	<p> -pause </p>
+
+	-pause
 	
 <b>Resumes song</b>
-	<p> -resume </p>
+
+	-resume 
 	
 <b>Skips song</b>
-	<p> -skip </p>
+
+	-skip 
 	
 <b>Removes specific song from queue </b> 
-	<p> -remove [INSERT NAME OF SPECIFIC SONG] </p>
-	<p> -rem </p>
-	<p> -rm </p>
+
+	-remove [INSERT NAME OF SPECIFIC SONG]
+	-rem [INSERT NAME OF SPECIFIC SONG]
+	-rm [INSERT NAME OF SPECIFIC SONG]
 
 <b>Clears queue</b>
-	<p> -clear </p>
-	<p> -clr </p>
-	<p> -cl </p>
-	<p> -cr </p>
+
+	-clear 
+	-clr 
+	-cl 
+	-cr 
 	
 <b>Displays queue</b>
-	<p> -queue </p>
-	<p> -q </p>
-	<p> -playlist </p>
-	<p> -que </p>
+
+	-queue 
+	-q 
+	-playlist 
+	-que 
 	
 <b>Shows currently playing song</b>
-	<p> -np </p>
-	<p> -song </p>
-	<p> -current </p>
-	<p> -currentsong </p>
-	<p> -playing </p>
+
+	-np 
+	-song 
+	-current 
+	-currentsong
+	-playing 
 	
 <b>Disconnects bot from voice channel</b>
-	<p> -leave </p>
-	<p> -disconnect </p>
-	<p> -stop </p>
-	<p> -dc </p>
-	<p> -bye </p>
+
+	-leave 
+	-disconnect 
+	-stop
+	-dc 
+	-bye
 	
