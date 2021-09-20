@@ -8,7 +8,7 @@ If you use this code, DO NOT CREDIT ME!
 Command list for Tommy's Jukebox
 
 Connects the bot to the voice channel (These all do the same thing)
-	-join
+	<p> -join </p>
 	-connect
 	-j 
 
