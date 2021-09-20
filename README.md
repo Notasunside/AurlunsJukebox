@@ -7,9 +7,9 @@ If you use this code, DO NOT CREDIT ME!
 <b> <i> Command list for Tommy's Jukebox </b> </i>
 
 Connects the bot to the voice channel (These all do the same thing)
-	<p class="tab"> -join </p>
-	<p class="tab"> -connect </p>
-	<p class="tab"> -j </p>
+	<p style="margin-left: 40px"> -join </p>
+	<p style="margin-left: 40px"> -connect </p>
+	<p style="margin-left: 40px"> -j </p>
 
 Plays song
 	<p> -play </p>
