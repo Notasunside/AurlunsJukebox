@@ -2,9 +2,9 @@
 <br>
 <p>-----</p>
 <br>
-<p> Not a music bot. </p>
+<p> Totalllllyy not a music bot. </p>
 <p> You will need to download PyNacL to use this.</p>
-<p> If you use this code, you do not have to credit me. I just made this for my friends. I made the main.py file; <a href="https://stackoverflow.com/a/66630462/16960686">Aditya Tomar</a> made the music.py file.</p>
+<p> If you use this code, you do not have to credit me. I just made this for my friends. </p>
 <br>
 <br>
 <p>-----</p>
